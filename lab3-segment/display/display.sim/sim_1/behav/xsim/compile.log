@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/240181/display/display.srcs/sources_1/new/bin2seg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bin2seg'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/240181/display/display.srcs/sim_1/new/tb_bin2seg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_bin2seg'
